@@ -49,10 +49,10 @@
 
 <p align="center">
 
-![Automatization](https://img.shields.io/badge/-Automatizaci%C3%B3n-FF006E?style=for-the-badge&logo=zap&logoColor=white)
-![90%25+ Optimized](https://img.shields.io/badge/-90%25+Operaciones-Automatizadas-brightgreen?style=for-the-badge)
-![30%25 Faster](https://img.shields.io/badge/-30%25+Más+Rápido-00D4FF?style=for-the-badge)
-![Millions Processed](https://img.shields.io/badge/-Millones+en+Transacciones-gold?style=for-the-badge)
+![Automatization](https://img.shields.io/badge/Automatizacion-FF006E?style=for-the-badge&logo=zap&logoColor=white)
+![90+ Optimized](https://img.shields.io/badge/90%25_Operaciones_Automatizadas-brightgreen?style=for-the-badge)
+![30+ Faster](https://img.shields.io/badge/30%25_Mas_Rapido-00D4FF?style=for-the-badge)
+![Millions Processed](https://img.shields.io/badge/Millones_en_Transacciones-gold?style=for-the-badge)
 
 </p>
 
@@ -179,7 +179,7 @@
 <p align="center">
 
 <a href="https://github.com/kevin-villatoro-dev">
-  <img src="https://github-readme-stats.vercel.app/api?username=kevin-villatoro-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=FF006E&icon_color=8338EC&text_color=c9d1d9" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kevin-villatoro-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </a>
 
 </p>
@@ -187,7 +187,7 @@
 <p align="center">
 
 <a href="https://github.com/kevin-villatoro-dev">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevin-villatoro-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FF006E&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevin-villatoro-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </a>
 
 </p>
@@ -211,7 +211,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kevin-villatoro-dev/kevin-villatoro-dev/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kevin-villatoro-dev/kevin-villatoro-dev/output/github-snake.svg" />
-  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/kevin-villatoro-dev/kevin-villatoro-dev/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/kevin-villatoro-dev/kevin-villatoro-dev/output/github-snake.svg" onerror="this.style.display='none'" />
 </picture>
 
 </p>
