@@ -209,9 +209,9 @@
 <p align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kevin-villatoro-dev/kevin-villatoro-dev/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kevin-villatoro-dev/kevin-villatoro-dev/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/kevin-villatoro-dev/kevin-villatoro-dev/output/github-snake.svg" onerror="this.style.display='none'" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kevin-villatoro-dev/kevin-villatoro-dev/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kevin-villatoro-dev/kevin-villatoro-dev/output/snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/kevin-villatoro-dev/kevin-villatoro-dev/output/snake.svg" onerror="this.style.display='none'" />
 </picture>
 
 </p>
