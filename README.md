@@ -29,7 +29,11 @@
 
 ---
 
-## 👤 Sobre Mí
+<p align="center">
+
+![Sobre Mí](https://capsule-render.vercel.app/api?type=soft&color=0:FF006E,50:8338EC,100:3A86FF&height=80&section=header&text=%F0%9F%91%91%20SOBRE%20MI&fontSize=28&fontColor=ffffff&animation=fadeIn)
+
+</p>
 
 <p align="center">
 
@@ -67,7 +71,11 @@
 
 ---
 
-## 🛠️ Stack Tecnológico
+<p align="center">
+
+![Stack Tecnológico](https://capsule-render.vercel.app/api?type=soft&color=0:FF006E,50:8338EC,100:3A86FF&height=80&section=header&text=%F0%9F%9A%A0%20STACK%20TECNOL%C3%93GICO&fontSize=28&fontColor=ffffff&animation=fadeIn)
+
+</p>
 
 <h3 align="center">🚀 Languages</h3>
 
@@ -162,7 +170,11 @@
 
 ---
 
-## 📊 Estadísticas
+<p align="center">
+
+![Estadísticas](https://capsule-render.vercel.app/api?type=soft&color=0:FF006E,50:8338EC,100:3A86FF&height=80&section=header&text=%F0%9F%93%8A%20ESTAD%C3%8DSTICAS&fontSize=28&fontColor=ffffff&animation=fadeIn)
+
+</p>
 
 <p align="center">
 
@@ -188,7 +200,11 @@
 
 ---
 
-## 🐍 Contribution Snake
+<p align="center">
+
+![Contribution Snake](https://capsule-render.vercel.app/api?type=soft&color=0:FF006E,50:8338EC,100:3A86FF&height=80&section=header&text=%F0%9F%90%8D%20CONTRIBUTION%20SNAKE&fontSize=28&fontColor=ffffff&animation=fadeIn)
+
+</p>
 
 <p align="center">
 
@@ -202,7 +218,11 @@
 
 ---
 
-## 📈 GitHub Activity
+<p align="center">
+
+![GitHub Activity](https://capsule-render.vercel.app/api?type=soft&color=0:FF006E,50:8338EC,100:3A86FF&height=80&section=header&text=%F0%9F%93%88%20GITHUB%20ACTIVITY&fontSize=28&fontColor=ffffff&animation=fadeIn)
+
+</p>
 
 <p align="center">
 
@@ -212,7 +232,11 @@
 
 ---
 
-## 📬 Connect With Me
+<p align="center">
+
+![Connect With Me](https://capsule-render.vercel.app/api?type=soft&color=0:FF006E,50:8338EC,100:3A86FF&height=80&section=header&text=%F0%9F%93%AC%20CONNECT%20WITH%20ME&fontSize=28&fontColor=ffffff&animation=fadeIn)
+
+</p>
 
 <p align="center">
 
@@ -226,7 +250,11 @@
 
 ---
 
-## 💡 Fun Fact
+<p align="center">
+
+![Fun Fact](https://capsule-render.vercel.app/api?type=soft&color=0:FF006E,50:8338EC,100:3A86FF&height=80&section=header&text=%F0%9F%92%A1%20FUN%20FACT&fontSize=28&fontColor=ffffff&animation=fadeIn)
+
+</p>
 
 <p align="center">
 
