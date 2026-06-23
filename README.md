@@ -226,7 +226,7 @@
 
 <p align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kevin-villatoro-dev&bg_color=0d1117&color=FF006E&line=8338EC&point=3A86FF&area=true&area_color=5865F2&hide_border=true)
+![GitHub Activity](https://commitpulse.vercel.app/api?username=kevin-villatoro-dev&theme=neon&layout=city&height=300)
 
 </p>
 
