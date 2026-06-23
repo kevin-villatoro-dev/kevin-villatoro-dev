@@ -29,11 +29,7 @@
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<h2 align="center">👤 Sobre Mí</h2>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+## 👤 Sobre Mí
 
 <p align="center">
 
@@ -71,11 +67,7 @@
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<h2 align="center">🛠️ Stack Tecnológico</h2>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+## 🛠️ Stack Tecnológico
 
 <h3 align="center">🚀 Languages</h3>
 
@@ -170,11 +162,7 @@
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<h2 align="center">📊 Estadísticas</h2>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+## 📊 Estadísticas
 
 <p align="center">
 
@@ -200,11 +188,7 @@
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+## 🐍 Contribution Snake
 
 <p align="center">
 
@@ -218,25 +202,17 @@
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<h2 align="center">📈 GitHub Activity</h2>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+## 📈 GitHub Activity
 
 <p align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kevin-villatoro-dev&bg_color=0d1117&color=FF006E&line=8338EC&point=3A86FF&area=true&area_color=5865F2&hide_border=true)
+![GitHub Activity](https://commitpulse.vercel.app/api?username=kevin-villatoro-dev&theme=neon&layout=city&height=300)
 
 </p>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<h2 align="center">📬 Connect With Me</h2>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+## 📬 Connect With Me
 
 <p align="center">
 
@@ -250,11 +226,7 @@
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<h2 align="center">💡 Fun Fact</h2>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+## 💡 Fun Fact
 
 <p align="center">
 
@@ -276,11 +248,7 @@ const kevin = {
 
 ---
 
-<h2 align="center">
-
 ![Footer](https://capsule-render.vercel.app/api?type=wave&color=0:FF006E,50:8338EC,100:3A86FF&height=150&section=footer&text=THANKS%20FOR%20VISITING!&fontSize=30&fontColor=ffffff&animation=twinkling&desc=Made%20with%20%E2%9D%A4%20by%20Kevin%20Villatoro&descAlignY=65&descFontSize=16)
-
-</h2>
 
 <p align="center">
 
