@@ -218,6 +218,78 @@
 
 ---
 
+### Alternative Options (Testing)
+
+---
+
+#### Option 1: Activity Graph
+
+<p align="center">
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kevin-villatoro-dev&bg_color=0d1117&color=FF006E&line=8338EC&point=3A86FF&area=true&area_color=5865F2&hide_border=true)
+
+</p>
+
+---
+
+#### Option 2: GitHub Metrics (Advanced)
+
+<p align="center">
+
+![GitHub Metrics](https://raw.githubusercontent.com/kevin-villatoro-dev/kevin-villatoro-dev/output/github-metrics-base.svg)
+
+</p>
+
+---
+
+#### Option 3: Commit Pulse
+
+<p align="center">
+
+![Commit Pulse](https://raw.githubusercontent.com/DenverCoder1/commit-pulse/main/commit-pulse.svg)
+
+</p>
+
+---
+
+#### Option 4: 3D Contribution Graph
+
+<p align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kevin-villatoro-dev/kevin-villatoro-dev/output-3d-contrib/night.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kevin-villatoro-dev/kevin-villatoro-dev/output-3d-contrib/day.svg" />
+  <img alt="3D Contribution Graph" src="https://raw.githubusercontent.com/kevin-villatoro-dev/kevin-villatoro-dev/output-3d-contrib/day.svg" />
+</picture>
+
+</p>
+
+---
+
+#### Option 5: WakaTime Stats
+
+<p align="center">
+
+![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=kevin-villatoro-dev&layout=compact&theme=tokyonight&hide_border=true)
+
+</p>
+
+---
+
+#### Option 6: Profile Summary Cards
+
+<p align="center">
+
+![Profile Summary](https://profile-summary-card-default.vercel.app/card?username=kevin-villatoro-dev)
+
+</p>
+
+---
+
+### End Testing Section
+
+---
+
 <p align="center">
 
 ![Connect With Me](https://capsule-render.vercel.app/api?type=soft&color=0:FF006E,50:8338EC,100:3A86FF&height=80&section=header&text=%F0%9F%93%AC%20CONNECT%20WITH%20ME&fontSize=28&fontColor=ffffff&animation=fadeIn)
