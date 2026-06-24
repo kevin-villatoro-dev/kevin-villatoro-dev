@@ -206,7 +206,7 @@
 
 <p align="center">
 
-![Commit Pulse](https://commitpulse.vercel.app/api?username=kevin-villatoro-dev&theme=neon)
+![Commit Pulse](https://commitpulse.vercel.app/api/streak?user=kevin-villatoro-dev&theme=neon)
 
 </p>
 
