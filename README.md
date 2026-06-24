@@ -188,58 +188,6 @@
 
 ---
 
-### Alternative Options (Testing)
-
----
-
-#### Option 1: Activity Graph
-
-<p align="center">
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kevin-villatoro-dev&bg_color=0d1117&color=FF006E&line=8338EC&point=3A86FF&area=true&area_color=5865F2&hide_border=true)
-
-</p>
-
----
-
-#### Option 2: Commit Pulse
-
-<p align="center">
-
-![Commit Pulse](https://commitpulse.vercel.app/api/streak?user=kevin-villatoro-dev&theme=neon)
-
-</p>
-
----
-
-#### Option 3: 3D Contribution Graph
-
-<p align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kevin-villatoro-dev/kevin-villatoro-dev/main/profile-3d-contrib/profile-night-view.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kevin-villatoro-dev/kevin-villatoro-dev/main/profile-3d-contrib/profile-green.svg" />
-  <img alt="3D Contribution Graph" src="https://raw.githubusercontent.com/kevin-villatoro-dev/kevin-villatoro-dev/main/profile-3d-contrib/profile-green.svg" />
-</picture>
-
-</p>
-
----
-
-#### Option 4: Profile Summary Cards
-
-<p align="center">
-
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kevin-villatoro-dev&theme=github_dark)
-
-</p>
-
----
-
-### End Testing Section
-
----
-
 <p align="center">
 
 ![Connect With Me](https://capsule-render.vercel.app/api?type=soft&color=0:FF006E,50:8338EC,100:3A86FF&height=80&section=header&text=%F0%9F%93%AC%20CONNECT%20WITH%20ME&fontSize=28&fontColor=ffffff&animation=fadeIn)
