@@ -217,9 +217,9 @@
 <p align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kevin-villatoro-dev/kevin-villatoro-dev/output-3d-contrib/night.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kevin-villatoro-dev/kevin-villatoro-dev/output-3d-contrib/day.svg" />
-  <img alt="3D Contribution Graph" src="https://raw.githubusercontent.com/kevin-villatoro-dev/kevin-villatoro-dev/output-3d-contrib/day.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kevin-villatoro-dev/kevin-villatoro-dev/main/profile-3d-contrib/night.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kevin-villatoro-dev/kevin-villatoro-dev/main/profile-3d-contrib/day.svg" />
+  <img alt="3D Contribution Graph" src="https://raw.githubusercontent.com/kevin-villatoro-dev/kevin-villatoro-dev/main/profile-3d-contrib/day.svg" />
 </picture>
 
 </p>
