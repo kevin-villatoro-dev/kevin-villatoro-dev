@@ -202,24 +202,6 @@
 
 <p align="center">
 
-![Contribution Snake](https://capsule-render.vercel.app/api?type=soft&color=0:FF006E,50:8338EC,100:3A86FF&height=80&section=header&text=%F0%9F%90%8D%20CONTRIBUTION%20SNAKE&fontSize=28&fontColor=ffffff&animation=fadeIn)
-
-</p>
-
-<p align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kevin-villatoro-dev/kevin-villatoro-dev/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kevin-villatoro-dev/kevin-villatoro-dev/output/snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/kevin-villatoro-dev/kevin-villatoro-dev/output/snake.svg" onerror="this.style.display='none'" />
-</picture>
-
-</p>
-
----
-
-<p align="center">
-
 ![GitHub Activity](https://capsule-render.vercel.app/api?type=soft&color=0:FF006E,50:8338EC,100:3A86FF&height=80&section=header&text=%F0%9F%93%88%20GITHUB%20ACTIVITY&fontSize=28&fontColor=ffffff&animation=fadeIn)
 
 </p>
@@ -236,6 +218,78 @@
 
 ---
 
+### Alternative Options (Testing)
+
+---
+
+#### Option 1: Activity Graph
+
+<p align="center">
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kevin-villatoro-dev&bg_color=0d1117&color=FF006E&line=8338EC&point=3A86FF&area=true&area_color=5865F2&hide_border=true)
+
+</p>
+
+---
+
+#### Option 2: GitHub Metrics (Advanced)
+
+<p align="center">
+
+![GitHub Metrics](https://raw.githubusercontent.com/kevin-villatoro-dev/kevin-villatoro-dev/output/github-metrics-base.svg)
+
+</p>
+
+---
+
+#### Option 3: Commit Pulse
+
+<p align="center">
+
+![Commit Pulse](https://raw.githubusercontent.com/DenverCoder1/commit-pulse/main/commit-pulse.svg)
+
+</p>
+
+---
+
+#### Option 4: 3D Contribution Graph
+
+<p align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kevin-villatoro-dev/kevin-villatoro-dev/output-3d-contrib/night.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kevin-villatoro-dev/kevin-villatoro-dev/output-3d-contrib/day.svg" />
+  <img alt="3D Contribution Graph" src="https://raw.githubusercontent.com/kevin-villatoro-dev/kevin-villatoro-dev/output-3d-contrib/day.svg" />
+</picture>
+
+</p>
+
+---
+
+#### Option 5: WakaTime Stats
+
+<p align="center">
+
+![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=kevin-villatoro-dev&layout=compact&theme=tokyonight&hide_border=true)
+
+</p>
+
+---
+
+#### Option 6: Profile Summary Cards
+
+<p align="center">
+
+![Profile Summary](https://profile-summary-card-default.vercel.app/card?username=kevin-villatoro-dev)
+
+</p>
+
+---
+
+### End Testing Section
+
+---
+
 <p align="center">
 
 ![Connect With Me](https://capsule-render.vercel.app/api?type=soft&color=0:FF006E,50:8338EC,100:3A86FF&height=80&section=header&text=%F0%9F%93%AC%20CONNECT%20WITH%20ME&fontSize=28&fontColor=ffffff&animation=fadeIn)
@@ -249,32 +303,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-4A90E2?style=for-the-badge&logo=personal-website&logoColor=white)](https://kevin-villatoro-dev.github.io)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/50259027761)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kevin-villatoro-dev)
-
-</p>
-
----
-
-<p align="center">
-
-![Fun Fact](https://capsule-render.vercel.app/api?type=soft&color=0:FF006E,50:8338EC,100:3A86FF&height=80&section=header&text=%F0%9F%92%A1%20FUN%20FACT&fontSize=28&fontColor=ffffff&animation=fadeIn)
-
-</p>
-
-<p align="center">
-
-```javascript
-const kevin = {
-    currentRole: "Tech Lead & Full Stack Developer",
-    experience: "10+ years",
-    coffee: "∞ cups/day",
-    bugs: "fixed (and occasionally created)",
-    superpower: "Turning caffeine into clean code",
-    philosophy: "Code should be like a good joke: if you have to explain it, it's not that good",
-    currentFocus: "Building scalable Fintech solutions",
-    funFact: "Automated 90% of manual operations at ShopShop",
-    motto: "Ship it, then fix it, then optimize it"
-};
-```
 
 </p>
 
