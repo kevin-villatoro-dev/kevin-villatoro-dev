@@ -172,36 +172,6 @@
 
 <p align="center">
 
-![Estadísticas](https://capsule-render.vercel.app/api?type=soft&color=0:FF006E,50:8338EC,100:3A86FF&height=80&section=header&text=%F0%9F%93%8A%20ESTAD%C3%8DSTICAS&fontSize=28&fontColor=ffffff&animation=fadeIn)
-
-</p>
-
-<p align="center">
-
-<a href="https://github.com/kevin-villatoro-dev">
-  <img src="https://github-readme-stats.vercel.app/api?username=kevin-villatoro-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-</a>
-
-</p>
-
-<p align="center">
-
-<a href="https://github.com/kevin-villatoro-dev">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevin-villatoro-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</a>
-
-</p>
-
-<p align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=kevin-villatoro-dev&theme=tokyonight&hide_border=true&background=0d1117&ring=FF006E&fire=8338EC&currStreakLabel=3A86FF&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=5865F2)](https://streak-stats.demolab.com?user=kevin-villatoro-dev)
-
-</p>
-
----
-
-<p align="center">
-
 ![GitHub Activity](https://capsule-render.vercel.app/api?type=soft&color=0:FF006E,50:8338EC,100:3A86FF&height=80&section=header&text=%F0%9F%93%88%20GITHUB%20ACTIVITY&fontSize=28&fontColor=ffffff&animation=fadeIn)
 
 </p>
@@ -232,27 +202,17 @@
 
 ---
 
-#### Option 2: GitHub Metrics (Advanced)
+#### Option 2: Commit Pulse
 
 <p align="center">
 
-![GitHub Metrics](https://raw.githubusercontent.com/kevin-villatoro-dev/kevin-villatoro-dev/output/github-metrics-base.svg)
+![Commit Pulse](https://commitpulse.vercel.app/api?username=kevin-villatoro-dev&theme=neon)
 
 </p>
 
 ---
 
-#### Option 3: Commit Pulse
-
-<p align="center">
-
-![Commit Pulse](https://raw.githubusercontent.com/DenverCoder1/commit-pulse/main/commit-pulse.svg)
-
-</p>
-
----
-
-#### Option 4: 3D Contribution Graph
+#### Option 3: 3D Contribution Graph
 
 <p align="center">
 
@@ -266,21 +226,11 @@
 
 ---
 
-#### Option 5: WakaTime Stats
+#### Option 4: Profile Summary Cards
 
 <p align="center">
 
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=kevin-villatoro-dev&layout=compact&theme=tokyonight&hide_border=true)
-
-</p>
-
----
-
-#### Option 6: Profile Summary Cards
-
-<p align="center">
-
-![Profile Summary](https://profile-summary-card-default.vercel.app/card?username=kevin-villatoro-dev)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kevin-villatoro-dev&theme=github_dark)
 
 </p>
 
