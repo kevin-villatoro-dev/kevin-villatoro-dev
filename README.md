@@ -1,12 +1,12 @@
 <h1 align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:FF006E,30:8338EC,60:5865F2,100:3A86FF&height=280&section=header&text=KEVIN%20ALBERTO%0AVILLATORO%20ARROYO&fontSize=44&fontColor=ffffff&animation=fadeIn&desc=Tech%20Lead%20%7C%20Full%20Stack%20Developer&descAlignY=70&descFontSize=22&fontFamily=Segoe%20UI)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:FF006E,30:8338EC,60:5865F2,100:3A86FF&height=280&section=header&text=KEVIN%20ALBERTO%0AVILLATORO%20ARROYO&fontSize=44&fontColor=ffffff&animation=fadeIn&desc=Tech%20Lead%20%7C%20Full%20Stack%20Developer%20%7C%20Fintech%20%7C%20Payment%20Gateways&descAlignY=70&descFontSize=22&fontFamily=Segoe%20UI)
 
 </h1>
 
 <p align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=750&lines=Tech+Lead+con+10%2B+años+de+experiencia+🚀;Transformo+complejidad+en+sistemas+eficientes+⚡;Experto+en+Fintech+y+pasarelas+de+pago+💳;Liderando+equipos+y+arquitecturas+escalables+🏗️;Siempre+aprendiendo+algo+nuevo+🌱)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=750&lines=Experto+en+Fintech+y+pasarelas+de+pago+💳;Siempre+aprendiendo+algo+nuevo+🌱)](https://git.io/typing-svg)
 
 </p>
 
@@ -24,7 +24,7 @@
 
 <p align="center">
 
-[![Languages](https://skillicons.dev/icons?i=php,js,ts,py,java,csharp&perline=6)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=php,js,ts,py,java,cs&perline=6)](https://skillicons.dev)
 
 </p>
 
@@ -69,7 +69,9 @@
 [![Fintech](https://img.shields.io/badge/Google_Pay-4285F4?style=for-the-badge&logo=google-pay&logoColor=white)]()
 [![Fintech](https://img.shields.io/badge/Cybersource-0075C9?style=for-the-badge&logo=cybersource&logoColor=white)]()
 [![Fintech](https://img.shields.io/badge/ePay-FF6600?style=for-the-badge&logo=epay&logoColor=white)]()
-[![Fintech](https://img.shields.io/badge/DTE_FEL-GT-green?style=for-the-badge&logo=guatemala&logoColor=white)]()
+
+[![Fintech](https://img.shields.io/badge/Infile-GT-skyblue?style=for-the-badge&logo=guatemala&logoColor=white)]()
+[![Fintech](https://img.shields.io/badge/Guatefacturas-darkblue?style=for-the-badge&logo=guatemala&logoColor=white)]()
 
 </p>
 
