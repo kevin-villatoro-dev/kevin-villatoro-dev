@@ -1,6 +1,6 @@
 <h1 align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:FF006E,30:8338EC,60:5865F2,100:3A86FF&height=280&section=header&text=KEVIN%20ALBERTO%0AVILLATORO%20ARROYO&fontSize=44&fontColor=ffffff&animation=fadeIn&desc=Tech%20Lead%20%7C%20Full%20Stack%20Developer%20%7C%20Fintech%20%7C%20Payment%20Gateways&descAlignY=70&descFontSize=22&fontFamily=Segoe%20UI)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:FF006E,30:8338EC,60:5865F2,100:3A86FF&height=280&section=header&text=KEVIN%20ALBERTO%0AVILLATORO%20ARROYO&fontSize=44&fontColor=ffffff&animation=fadeIn&desc=Tech%20Lead%20%7C%20Software%20Architect%20%7C%20Payment%20Gateways&descAlignY=70&descFontSize=22&fontFamily=Segoe%20UI)
 
 </h1>
 
@@ -32,15 +32,15 @@
 
 <p align="center">
 
-[![Backend](https://skillicons.dev/icons?i=laravel,nodejs,nextjs,fastapi,flask&perline=6)](https://skillicons.dev)
-
+[![Backend](https://skillicons.dev/icons?i=laravel,nodejs,nextjs,fastapi&perline=6)](https://skillicons.dev)
+[![Backend](https://cdn.simpleicons.org/composer/FFFFFF?size=50)](https://cdn.simpleicons.org)
 </p>
 
 <h3 align="center">🎨 Frontend</h3>
 
 <p align="center">
 
-[![Frontend](https://skillicons.dev/icons?i=astro,react,tailwind,bootstrap,jquery,html,css&perline=7)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=react,astro,tailwind,bootstrap,vite,jquery&perline=7)](https://skillicons.dev)
 
 </p>
 
@@ -48,30 +48,32 @@
 
 <p align="center">
 
-[![Databases](https://skillicons.dev/icons?i=mysql,postgres,mongodb&perline=3)](https://skillicons.dev)
+[![Databases](https://skillicons.dev/icons?i=mysql,postgres&perline=3)](https://skillicons.dev)
+[![Databases](https://cdn.simpleicons.org/mariadb/FFFFFF?size=50)](https://cdn.simpleicons.org)
 
 </p>
 
-<h3 align="center">🛠️ DevOps y Herramientas</h3>
+<h3 align="center">🛠️ DevOps</h3>
 
 <p align="center">
 
-[![DevOps](https://skillicons.dev/icons?i=docker,git,github,gitlab,postman,vscode,linux&perline=8)](https://skillicons.dev)
+[![DevOps](https://skillicons.dev/icons?i=docker,githubactions,linux,postman,git,github,gitlab&perline=8)](https://skillicons.dev)
+[![DevOps](https://cdn.simpleicons.org/apache/FFFFFF?size=50)](https://cdn.simpleicons.org)
 
 </p>
 
-<h3 align="center">💳 Pagos y Fintech</h3>
+<h3 align="center">💳 Fintech & Pagos</h3>
 
 <p align="center">
 
-[![Fintech](https://img.shields.io/badge/Click_to_Pay-0070BA?style=for-the-badge&logo=clicktopay&logoColor=white)]()
-[![Fintech](https://img.shields.io/badge/Apple_Pay-000000?style=for-the-badge&logo=apple-pay&logoColor=white)]()
-[![Fintech](https://img.shields.io/badge/Google_Pay-4285F4?style=for-the-badge&logo=google-pay&logoColor=white)]()
-[![Fintech](https://img.shields.io/badge/Cybersource-0075C9?style=for-the-badge&logo=cybersource&logoColor=white)]()
-[![Fintech](https://img.shields.io/badge/ePay-FF6600?style=for-the-badge&logo=epay&logoColor=white)]()
-
-[![Fintech](https://img.shields.io/badge/Infile-GT-skyblue?style=for-the-badge&logo=guatemala&logoColor=white)]()
-[![Fintech](https://img.shields.io/badge/Guatefacturas-darkblue?style=for-the-badge&logo=guatemala&logoColor=white)]()
+[![Fintech](https://img.shields.io/badge/NeoPay-5f249f?style=for-the-badge)](https://img.shields.io)
+[![Fintech](https://img.shields.io/badge/Cybersource-202a44?style=for-the-badge)](https://img.shields.io)
+[![Fintech](https://img.shields.io/badge/3D_secure-093d65?style=for-the-badge)](https://img.shields.io)
+[![Fintech](https://img.shields.io/badge/digital_wallets-cc9c82?style=for-the-badge)](https://img.shields.io)
+[![Fintech](https://img.shields.io/badge/Unified_Checkout-3773fc?style=for-the-badge)](https://img.shields.io)
+[![Fintech](https://img.shields.io/badge/checkin_/_recargo_/_checkout-f18f0c?style=for-the-badge)](https://img.shields.io)
+[![Fintech](https://img.shields.io/badge/click_to_pay-brightgreen?style=for-the-badge)](https://img.shields.io)
+[![Fintech](https://img.shields.io/badge/dte_/_fel-GT-1b99cd?style=for-the-badge)](https://img.shields.io)
 
 </p>
 
